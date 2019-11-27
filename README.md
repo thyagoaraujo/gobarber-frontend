@@ -1,8 +1,16 @@
-# GoBarber - Mobile
+# GoBarber - Web
 
 :scissors: A barber scheduling app that shows to the barber his agenda for the day.
 
 ### Demo
+
+![Demo](demo.png)
+
+![Demo](demo2.png)
+
+![Demo](demo3.png)
+
+![Demo](demo4.png)
 
 ## :rocket: Technologies
 
